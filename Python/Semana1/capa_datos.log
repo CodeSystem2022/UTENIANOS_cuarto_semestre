@@ -1,0 +1,19 @@
+09:58:39 PM:DEBUG [Persona.py:57] 
+            Id Persona: 1,
+            Nombre: Juan,Apellido: Perez,
+            Email: jperez@gmail.com
+        
+09:58:39 PM:DEBUG [Persona.py:59] 
+            Id Persona: None,
+            Nombre: Jose,Apellido: Lerez,
+            Email: ljose@gmail.com
+        
+09:58:39 PM:DEBUG [Persona.py:61] 
+            Id Persona: 1,
+            Nombre: None,Apellido: None,
+            Email: None
+        
+10:55:37 PM:DEBUG [cursor_del_pool.py:11] Inicio del método with y __enter__
+11:58:55 PM:DEBUG [cursor_del_pool.py:11] Inicio del método with y __enter__
+02:58:43 PM:DEBUG [cursor_del_pool.py:11] Inicio del método with y __enter__
+02:59:50 PM:DEBUG [cursor_del_pool.py:11] Inicio del método with y __enter__

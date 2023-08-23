@@ -13,4 +13,5 @@
 | Costilla Celina      | [Costilla Celina](https://www.linkedin.com/in/celinacostilla31323344/) | [Hiddencelc](https://github.com/users/Hiddencelc/) |
 | Miriam Torres        | [Miriam Torres](https://www.linkedin.com/in/miriam-torres-63b3a8227/) | [MiriamTorres30](https://github.com/MiriamTorres30) |
 | Walter David Torres  | [Walter David Torres](https://www.linkedin.com/in/david-torres-6668b3253/) | [DavidTorres92](https://github.com/DavidTorres92) |
-</details>
+### Planificación método Scrum
+<a href='https://postimg.cc/Q9zNHGXB' target='_blank'><img src='https://i.postimg.cc/Q9zNHGXB/Post-Instagram-Nueva-Colecci-n-Glitch-Digital-Retro-Violeta-Rosa.gif' border='0' alt='Post-Instagram-Nueva-Colecci-n-Glitch-Digital-Retro-Violeta-Rosa'/></a>

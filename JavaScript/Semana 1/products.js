@@ -35,3 +35,4 @@ const productos = [
          img: "\client\media\enlatados.png",
       },
   ]
+   

@@ -20,3 +20,18 @@ public boolean eliminarEstudiante(Estudiante estudiante){
         }
         return false;
     } // fin método eliminar estudiante
+
+
+
+// pruebas para eliminar estudiante
+
+          var estudianteDao= new EstudianteDAO();
+
+         // eliminar estudiante con id= 3
+         var estudianteEliminar= new Estudiante(3);
+         var eliminado = estudianteDao.eliminarEstudiante(estudianteEliminar);
+         if (eliminado){
+             System.out.println("Estudiante eliminado :" + estudianteEliminar);
+         }else {
+             System.out.println("No se pudo eliminar estudiante: "+ estudianteEliminar);
+         }

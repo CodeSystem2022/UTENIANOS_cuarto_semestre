@@ -9,6 +9,7 @@
 ![image](https://github.com/CodeSystem2022/UTENIANOS_cuarto_semestre/assets/98441984/ccd2342c-4dc2-42b1-a129-809353b2d29d)
 ![image](https://github.com/CodeSystem2022/UTENIANOS_cuarto_semestre/assets/98441984/d8255d3a-0a17-4be3-ab79-af12092aca24)
 ![image](https://github.com/CodeSystem2022/UTENIANOS_cuarto_semestre/assets/98441984/e809627a-6c4e-4f55-bc26-0cae0fe6f695)
+![image](https://github.com/CodeSystem2022/UTENIANOS_cuarto_semestre/assets/98441984/e22efe53-3537-4fa1-b954-97efcc555092)
 
 #### Integrantes del equipo
 

@@ -10,6 +10,15 @@
 ![image](https://github.com/CodeSystem2022/UTENIANOS_cuarto_semestre/assets/98441984/d8255d3a-0a17-4be3-ab79-af12092aca24)
 ![image](https://github.com/CodeSystem2022/UTENIANOS_cuarto_semestre/assets/98441984/e809627a-6c4e-4f55-bc26-0cae0fe6f695)
 ![image](https://github.com/CodeSystem2022/UTENIANOS_cuarto_semestre/assets/98441984/e22efe53-3537-4fa1-b954-97efcc555092)
+![image](https://github.com/CodeSystem2022/UTENIANOS_cuarto_semestre/assets/98441984/d66f2ba1-b39d-48bf-aa8e-00f60b0e678c)
+![image](https://github.com/CodeSystem2022/UTENIANOS_cuarto_semestre/assets/98441984/f36bcf81-c1d0-4b64-87fb-13cea9cefca9)
+![image](https://github.com/CodeSystem2022/UTENIANOS_cuarto_semestre/assets/98441984/97cf4e30-130a-4173-9e89-f697a679c6bd)
+![image](https://github.com/CodeSystem2022/UTENIANOS_cuarto_semestre/assets/98441984/bce3b7a4-3954-4703-aafd-86f8beef59af)
+![image](https://github.com/CodeSystem2022/UTENIANOS_cuarto_semestre/assets/98441984/ae71e27e-de77-4ea0-a7cc-4e0b87f7f64c)
+![image](https://github.com/CodeSystem2022/UTENIANOS_cuarto_semestre/assets/98441984/7bba13cc-26e3-4e46-b20e-898397df4f30)
+![image](https://github.com/CodeSystem2022/UTENIANOS_cuarto_semestre/assets/98441984/5051b294-e4ac-41aa-a63c-ecdcfce08d8c)
+
+
 
 #### Integrantes del equipo
 

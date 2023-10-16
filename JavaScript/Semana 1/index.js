@@ -1,10 +1,10 @@
 const shopContent = document.getElementById("shopContent");
-product.forEach((product) => {
+productos.forEach((product) => {
     const content = document.createElement("div");
     content.innerHTML = `
     <img src="${product.img}"/>
-    <h3>${product.productName}</h3>
-    <P>${product.price} $</P>
-     `;
+    <h3>${product.title}</h3>
+    <p>${product.price} $</p>
+    `;
     shopContent.append(content);
 });

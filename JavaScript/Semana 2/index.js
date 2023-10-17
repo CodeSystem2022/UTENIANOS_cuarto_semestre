@@ -1,5 +1,5 @@
 const shopContent = document.getElementById("shopContent");
-
+const cart = [ ]; // este es nuestro carrito, un array vacío lo creamos en semana dos//
 productos.forEach((product) =>{
     const content= document.createElement("div");
     content.innerHTML = `

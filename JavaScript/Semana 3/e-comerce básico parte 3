@@ -1,1 +1,6 @@
-
+// se agrega código al body
+// Se agrega código al Footer
+// Se configura la cantidad de productos
+// Se agregan botones de suma y de resta al carrito de compras
+// Se agrega botón cálculo total de la compra
+// Se agrega la función de eliminar productos al modal

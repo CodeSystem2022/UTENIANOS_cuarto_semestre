@@ -1,0 +1,5 @@
+utn/estudiantes/servicio/EstudianteServicio.class
+utn/estudiantes/modelo/Estudiante.class
+utn/estudiantes/servicio/IEstudianteServicio.class
+utn/estudiantes/EstudiantesApplication.class
+utn/estudiantes/repositorio/EstudianteRepositorio.class

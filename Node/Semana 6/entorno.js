@@ -1,3 +1,8 @@
-let nombre = process.env.NOMBRE;
+let nombre = process.env.NOMBRE || 'Sin nombre';
+let web = process.env.WEB || 'No tengo web';
 
 console.log('Hola '+nombre);
+console.log('Mi web es '+web);
+
+//$env:NOMBRE="Humberto"; node enotorno.js
+//$env:WEB="https://innovaducate.space"; node enotorno.js

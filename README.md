@@ -1,7 +1,7 @@
 # UTENIANOS_cuarto_semestre
 ## UNIVERSIDAD TECNOLÓGICA SAN RAFAEL CUARTO SEMESTRE 
 ### El presente repositorio tiene como finalidad recopilar proyectos correspondientes a las cátedras de laboratorio IV, Metodología de sistema y diseño en los cuales se desarrollarán actividades en diferentes lenguajes de programación tales como python, javascript, java y node js como entorno de ejecución de código abierto. Se utiliza base de datos SQL y NO SQL.Además de HTML y CSS.
-<a href='https://postimg.cc/rDrtTNdn' target='_blank'><img src='https://i.postimg.cc/rDrtTNdn/utenianos-Gif-Animated-Zoom-Virtual-Background-1.gif' border='0' alt='utenianos-Gif-Animated-Zoom-Virtual-Background-1'/></a>
+<a href='https://postimg.cc/rDrtTNdn' target='_blank'><img src='https://i.postimg.cc/rDrtTNdn/utenianos-Gif-Animated-Zoom-Virtual-Background-1.gif' border='200' alt='utenianos-Gif-Animated-Zoom-Virtual-Background-1'/></a>
 
 
 

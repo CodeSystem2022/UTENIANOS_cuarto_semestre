@@ -21,6 +21,7 @@
 ![image](https://github.com/CodeSystem2022/UTENIANOS_cuarto_semestre/assets/98441984/2ec450ab-25d3-43d9-acd8-6d7e1b26c82b)
 ![image](https://github.com/CodeSystem2022/UTENIANOS_cuarto_semestre/assets/98441984/dccb945e-df46-4a11-9e49-5a0b43cae459)
 ![image](https://github.com/CodeSystem2022/UTENIANOS_cuarto_semestre/assets/98441984/e999320a-777a-45b6-8b65-38b0ce49af19)
+![Uploading image.png…]()
 
 
 

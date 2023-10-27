@@ -16,3 +16,12 @@ function soyAsincrona() {
 
   console.log("Terminando el proceso...");
 }
+
+
+function callback(nombre) {
+  console.log("Iniciando el proceso...");
+  console.log("Hola " + nombre);
+  console.log("Terminando el proceso...");
+}
+
+callback("Carlos");

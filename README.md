@@ -1,6 +1,7 @@
 # UTENIANOS_cuarto_semestre
 ## UNIVERSIDAD TECNOLÓGICA SAN RAFAEL CUARTO SEMESTRE 
-### El presente repositorio tiene como finalidad recopilar proyectos correspondientes a las cátedras de laboratorio IV, Metodología de sistema y diseño en los cuales se desarrollarán actividades en diferentes lenguajes de programación tales como python, javascript, java y node js como entorno de ejecución de código abierto. Se utiliza base de datos SQL y NO SQL.Además de HTML y CSS.
+### El presente repositorio tiene como finalidad recopilar proyectos correspondientes a las cátedras de laboratorio IV, Metodología de sistema y diseño en los cuales se desarrollarán actividades en diferentes lenguajes de programación tales como python, javascript, java y node js como entorno de ejecución de código abierto. Se utiliza base de datos SQL y NO SQL.Además de HTML y CSS. 
+### Ademas se incorpora informacion relevante de la materia base de datos en el uso de programación orientada a objetos, sas, less, html y css, utilizando el editor vsc.
 <a href='https://postimg.cc/rDrtTNdn' target='_blank'><img src='https://i.postimg.cc/rDrtTNdn/utenianos-Gif-Animated-Zoom-Virtual-Background-1.gif' border='200' alt='utenianos-Gif-Animated-Zoom-Virtual-Background-1'/></a>
 
 
@@ -23,6 +24,8 @@
 ![image](https://github.com/CodeSystem2022/UTENIANOS_cuarto_semestre/assets/98441984/e999320a-777a-45b6-8b65-38b0ce49af19)
 ![image](https://github.com/CodeSystem2022/UTENIANOS_cuarto_semestre/assets/98441984/f0f2231a-bedd-4c2f-9d3d-385c0ca7c59b)
 ![image](https://github.com/CodeSystem2022/UTENIANOS_cuarto_semestre/assets/98441984/cc4b5104-3700-4274-a88c-b46c03c7f52b)
+![image](https://github.com/CodeSystem2022/UTENIANOS_cuarto_semestre/assets/98441984/ba06d897-e539-4c89-9785-c55354e8c897)
+![image](https://github.com/CodeSystem2022/UTENIANOS_cuarto_semestre/assets/98441984/7e0d5338-3f72-45b3-8c82-7b4ae2e8a561)
 
 
 

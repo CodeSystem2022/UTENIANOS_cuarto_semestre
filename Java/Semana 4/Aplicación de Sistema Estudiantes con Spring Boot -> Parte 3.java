@@ -62,3 +62,84 @@ public class EstudiantesApplication implements CommandLineRunner {
 				estudiantes.forEach((estudiante-> logger.info(estudiante.toString()+nl)));
 
 			}
+				//SABA JUAN AGUSTÍN
+			case 2: //Buscar estudiante por id
+		                logger.info("Digite el id del estudiante a buscar: ");
+		                var idEstudiante = Integer.parseInt(consola.nextLine());
+		                Estudiantes2022 estudiante = estudianteServicio.buscarEtudiantePorId(idEstudiante);
+		                if(estudiante != null){
+		                    logger.info("Estudiante encontrado: "+estudiante + nl);
+		                }else{
+		                    logger.info("Estudiante NO encontrado: "+estudiante + nl);
+		                }break;
+		        case 3: //Agregar estudiante
+		                logger.info("Agregar estudiante: "+ nl);
+		                logger.info("Nombre: ");
+		                var nombre = consola.nextLine();
+		                logger.info("Apellido: ");
+		                var apellido = consola.nextLine();
+		                logger.info("Teléfono: ");
+		                var telefono = consola.nextLine();
+		                logger.info("Email: ");
+		                var email = consola.nextLine();
+		                //Crear el objeto estudiante sin el id
+		                var estudiante = new Estudiantes2022();
+		                estudiante.setNombre(nombre);
+		                estudiante.setApellido(apellido);
+		                estudiante.setTelefono(telefono);
+		                estudiante.setEmail(email);
+		                estudianteServicio.guardarEstudiante(estudiante);
+		                logger.info("Estudiante agregado: "+estudiante+ nl);
+		                break;
+		        case 4: //Modificar estudiante
+		                logger.info("Modificar estudiante: "+ nl);
+		                logger.info("Ingrese el id del estudiante a modificar: "+ nl);
+		                var idEstudiante = Integer.parseInt(consolola.nextLine());
+		                // buscamos el estudiante a modificar
+		                Estudiantes2022 estudiante = estudianteServicio.buscarEtudiantePorId(idEstudiante);
+		                if(estudiante != null){
+		                    logger.info("Nombre: ");
+		                    var nombre = consola.nextLine();
+		                    logger.info("Apellido: ");
+		                    var apellido = consola.nextLine();
+		                    logger.info("Teléfono: ");
+		                    var telefono = consola.nextLine();
+		                    logger.info("Email: ");
+		                    var email = consola.nextLine(); 
+		                    estudiante.setNombre(nombre);
+		                    estudiante.setApellido(apellido);
+		                    estudiante.setTelefono(telefono);
+		                    estudiante.setEmail(email);
+		                    estudianteServicio.guardarEstudiante(estudiante);
+		                    logger.info("Estudiante modificado: "+estudiante+nl);
+		                }else{
+		                    logger.info("Estudiante NO encontrado con el id "+estudiante+nl);
+		                }
+		                break;
+		        case 5: //Eliminar estudiante
+		                logger.info("Eliminar estudiante: "+ nl);
+		                logger.info("Digite el id del Estudiante a eliminar: ");
+		                var idEstudiante = Integer.parseInt(consola.nextLine());
+		                //buscamos el id del estudiante a eliminar
+		                var estudiante = estudianteServicio.buscarEtudiantePorId(idEstudiante);
+		                if(estudiante != null){
+		                    estudianteServicio.eliminarEstudiante(estudiante);
+		                    logger.info("Estudiante eliminado: "+estudiante+nl);
+		                    
+		                }else{
+		                    logger.info("Estudiante NO encontrado con id: "+estudiante+nl);
+		                }
+		                break;
+		        case 6: //Salir
+		                logger.info("Hasta pronto!"+nl+nl);
+		                salir = true;
+		                break;
+		        default:
+		                logger.info("Opción no reconocida: "+opcion+nl);
+		        }
+		
+		        return salir;
+		    }
+    
+
+}

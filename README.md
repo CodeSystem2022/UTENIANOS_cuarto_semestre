@@ -31,7 +31,7 @@
 ![image](https://github.com/CodeSystem2022/UTENIANOS_cuarto_semestre/assets/98441984/df573151-a641-46ab-8efd-7bc1a4e12527)
 ![image](https://github.com/CodeSystem2022/UTENIANOS_cuarto_semestre/assets/98441984/3a6de0bb-a373-4f7c-bc80-2442eb9f8915)
 ![image](https://github.com/CodeSystem2022/UTENIANOS_cuarto_semestre/assets/98441984/8d22b74e-a12d-40ed-9fe4-cb34d8c218b3)
-![image](https://github.com/CodeSystem2022/UTENIANOS_cuarto_semestre/assets/98441984/c8e69bf2-419c-4b38-bcd6-7ebfb991ab8a)
+![image](https://github.com/CodeSystem2022/UTENIANOS_cuarto_semestre/assets/98441984/82372b65-e95c-4254-a3cc-a0ff5f552f22)
 ![image](https://github.com/CodeSystem2022/UTENIANOS_cuarto_semestre/assets/98441984/dc3e61c2-6f3a-4dc5-ae6d-e54945e76d60)
 
 

@@ -39,6 +39,8 @@
 ![image](https://github.com/CodeSystem2022/UTENIANOS_cuarto_semestre/assets/98441984/eb9bf741-6d4f-4697-a214-db6d5207b3f7)
 ![image](https://github.com/CodeSystem2022/UTENIANOS_cuarto_semestre/assets/98441984/a204b8cd-2b65-4986-8fb8-907eb8bfbc19)
 ![image](https://github.com/CodeSystem2022/UTENIANOS_cuarto_semestre/assets/98441984/ce79740d-56de-4986-9826-d5eba3516398)
+![image](https://github.com/CodeSystem2022/UTENIANOS_cuarto_semestre/assets/98441984/713a0462-c691-47fe-a7bf-5b90981aa5b0)
+
 
 
 | Nombre               | LinkedIn                                               | GitHub                                      |
